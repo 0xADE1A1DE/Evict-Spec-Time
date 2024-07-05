@@ -1,6 +1,6 @@
 # Evict + Spec + Time: Exploiting Out-of-Order Execution to Improve Cache-Timing Attacks  
 
-This repo contains code to reproduce experiments presented in the paper.  
+This repo contains code to reproduce experiments presented in the paper ([link](https://eprint.iacr.org/2024/149.pdf)), which is accepted by CHES 2024.  
 
 ## Experiments
 
